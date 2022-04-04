@@ -10,3 +10,4 @@ btn.addEventListener('click', function() {
 
 let h2 = document.querySelector('h2');
 console.log(h2);
+alert('这是在github上修改的内容');
